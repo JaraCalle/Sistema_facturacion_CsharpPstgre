@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ga0nBnM1ZT68rfw90k1Ffpv0VfF76ceBUKULM7t0CK5WiybcNH+yvNgxRUkq6PUlkNKnpUOAtf1NHUj+dyjAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juanj\\source\\repos\\SistemaDeFacturacion\\SistemaDeFacturacion\\SistemaDeFacturacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juanj\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\Juanj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
